@@ -1,0 +1,121 @@
+product_id,product_name,category,unit_weight
+1,Wireless Mouse - Standard,Electronics,0.52
+2,Wireless Mouse - Premium,Electronics,0.52
+3,Mechanical Keyboard - Standard,Electronics,0.53
+4,Mechanical Keyboard - Premium,Electronics,0.69
+5,USB-C Hub - Standard,Electronics,0.53
+6,USB-C Hub - Premium,Electronics,0.26
+7,Bluetooth Speaker - Standard,Electronics,0.61
+8,Bluetooth Speaker - Premium,Electronics,0.5
+9,Webcam - Standard,Electronics,0.51
+10,Webcam - Premium,Electronics,0.57
+11,Laptop Stand - Standard,Electronics,0.59
+12,Laptop Stand - Premium,Electronics,0.77
+13,Wireless Charger - Standard,Electronics,0.68
+14,Wireless Charger - Premium,Electronics,0.57
+15,HDMI Cable - Standard,Electronics,0.41
+16,HDMI Cable - Premium,Electronics,0.35
+17,Power Bank - Standard,Electronics,0.6
+18,Power Bank - Premium,Electronics,0.8
+19,Earbuds - Standard,Electronics,0.56
+20,Earbuds - Premium,Electronics,0.53
+21,Water Bottle - Standard,Home,1.01
+22,Water Bottle - Premium,Home,0.42
+23,Storage Box - Standard,Home,0.76
+24,Storage Box - Premium,Home,1.0
+25,Desk Lamp - Standard,Home,1.11
+26,Desk Lamp - Premium,Home,0.78
+27,Travel Mug - Standard,Home,0.96
+28,Travel Mug - Premium,Home,0.92
+29,Kitchen Scale - Standard,Home,1.08
+30,Kitchen Scale - Premium,Home,0.52
+31,Cushion Cover - Standard,Home,1.02
+32,Cushion Cover - Premium,Home,0.4
+33,Laundry Basket - Standard,Home,0.07
+34,Laundry Basket - Premium,Home,0.67
+35,Wall Clock - Standard,Home,0.58
+36,Wall Clock - Premium,Home,1.11
+37,Food Container - Standard,Home,1.05
+38,Food Container - Premium,Home,0.49
+39,Towel Set - Standard,Home,1.1
+40,Towel Set - Premium,Home,0.55
+41,Notebook Pack - Standard,Stationery,0.34
+42,Notebook Pack - Premium,Stationery,0.31
+43,Ballpoint Pen Set - Standard,Stationery,0.36
+44,Ballpoint Pen Set - Premium,Stationery,0.45
+45,Highlighter Pack - Standard,Stationery,0.43
+46,Highlighter Pack - Premium,Stationery,0.39
+47,Sticky Notes - Standard,Stationery,0.43
+48,Sticky Notes - Premium,Stationery,0.41
+49,Desk Organiser - Standard,Stationery,0.27
+50,Desk Organiser - Premium,Stationery,0.26
+51,A4 Paper Pack - Standard,Stationery,0.29
+52,A4 Paper Pack - Premium,Stationery,0.41
+53,Permanent Marker - Standard,Stationery,0.32
+54,Permanent Marker - Premium,Stationery,0.64
+55,Stapler - Standard,Stationery,0.25
+56,Stapler - Premium,Stationery,0.22
+57,Folder Set - Standard,Stationery,0.44
+58,Folder Set - Premium,Stationery,0.52
+59,Label Roll - Standard,Stationery,0.41
+60,Label Roll - Premium,Stationery,0.45
+61,Resistance Bands - Standard,Fitness,1.65
+62,Resistance Bands - Premium,Fitness,1.06
+63,Yoga Mat - Standard,Fitness,0.55
+64,Yoga Mat - Premium,Fitness,0.9
+65,Skipping Rope - Standard,Fitness,1.47
+66,Skipping Rope - Premium,Fitness,0.54
+67,Shaker Bottle - Standard,Fitness,1.11
+68,Shaker Bottle - Premium,Fitness,1.2
+69,Foam Roller - Standard,Fitness,0.98
+70,Foam Roller - Premium,Fitness,1.38
+71,Gym Towel - Standard,Fitness,1.32
+72,Gym Towel - Premium,Fitness,1.99
+73,Wrist Straps - Standard,Fitness,1.34
+74,Wrist Straps - Premium,Fitness,0.87
+75,Exercise Ball - Standard,Fitness,0.88
+76,Exercise Ball - Premium,Fitness,0.78
+77,Grip Trainer - Standard,Fitness,1.47
+78,Grip Trainer - Premium,Fitness,0.88
+79,Running Belt - Standard,Fitness,1.07
+80,Running Belt - Premium,Fitness,1.39
+81,Electric Toothbrush - Standard,Personal Care,0.34
+82,Electric Toothbrush - Premium,Personal Care,0.4
+83,Hair Dryer - Standard,Personal Care,0.16
+84,Hair Dryer - Premium,Personal Care,0.28
+85,Beard Trimmer - Standard,Personal Care,0.36
+86,Beard Trimmer - Premium,Personal Care,0.52
+87,Face Cleanser - Standard,Personal Care,0.64
+88,Face Cleanser - Premium,Personal Care,0.45
+89,Hand Cream - Standard,Personal Care,0.49
+90,Hand Cream - Premium,Personal Care,0.48
+91,Body Wash - Standard,Personal Care,0.62
+92,Body Wash - Premium,Personal Care,0.59
+93,Hair Brush - Standard,Personal Care,0.49
+94,Hair Brush - Premium,Personal Care,0.29
+95,Travel Toiletry Bag - Standard,Personal Care,0.59
+96,Travel Toiletry Bag - Premium,Personal Care,0.51
+97,Nail Kit - Standard,Personal Care,0.64
+98,Nail Kit - Premium,Personal Care,0.45
+99,Makeup Mirror - Standard,Personal Care,0.76
+100,Makeup Mirror - Premium,Personal Care,0.39
+101,Dog Lead - Standard,Pet Supplies,1.17
+102,Dog Lead - Premium,Pet Supplies,0.78
+103,Pet Bowl - Standard,Pet Supplies,0.61
+104,Pet Bowl - Premium,Pet Supplies,0.45
+105,Cat Toy Set - Standard,Pet Supplies,0.71
+106,Cat Toy Set - Premium,Pet Supplies,1.12
+107,Pet Bed - Standard,Pet Supplies,0.96
+108,Pet Bed - Premium,Pet Supplies,0.93
+109,Waste Bag Roll - Standard,Pet Supplies,0.13
+110,Waste Bag Roll - Premium,Pet Supplies,0.94
+111,Pet Grooming Brush - Standard,Pet Supplies,0.9
+112,Pet Grooming Brush - Premium,Pet Supplies,0.61
+113,Dog Toy - Standard,Pet Supplies,0.59
+114,Dog Toy - Premium,Pet Supplies,0.75
+115,Cat Scratcher - Standard,Pet Supplies,1.2
+116,Cat Scratcher - Premium,Pet Supplies,0.47
+117,Pet Blanket - Standard,Pet Supplies,0.64
+118,Pet Blanket - Premium,Pet Supplies,1.11
+119,Treat Pouch - Standard,Pet Supplies,0.63
+120,Treat Pouch - Premium,Pet Supplies,0.65

@@ -1,0 +1,13 @@
+warehouse_id,warehouse_name,city,region
+1,Leicester Fulfilment Centre,Leicester,East Midlands
+2,Nottingham Distribution Hub,Nottingham,East Midlands
+3,Birmingham Fulfilment Centre,Birmingham,West Midlands
+4,Coventry Distribution Hub,Coventry,West Midlands
+5,Manchester Fulfilment Centre,Manchester,North West
+6,Liverpool Distribution Hub,Liverpool,North West
+7,Leeds Fulfilment Centre,Leeds,Yorkshire
+8,Sheffield Distribution Hub,Sheffield,Yorkshire
+9,Bristol Fulfilment Centre,Bristol,South West
+10,Reading Distribution Hub,Reading,South East
+11,Milton Keynes Fulfilment Centre,Milton Keynes,South East
+12,Peterborough Distribution Hub,Peterborough,East of England
