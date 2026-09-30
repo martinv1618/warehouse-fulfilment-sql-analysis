@@ -1,0 +1,1 @@
+CREATE DATABASE warehouse_sql_course;
